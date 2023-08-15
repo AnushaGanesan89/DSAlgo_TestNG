@@ -1,0 +1,139 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>12/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Fri Aug 11 18:34:24 EDT 2023</td>
+</tr>
+<tr><td>Total time:</td><td>96 seconds (96328 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='Pages_Tests.Register_Test.all_field_empty()'><b>all_field_empty</b><br>Test class: Pages_Tests.Register_Test<br>Parameters: , , </td>
+<td></td>
+<td>0</td>
+<td>Pages_Tests.Register_Test@38c6f217</td></tr>
+<tr>
+<td title='Pages_Tests.Register_Test.uname_char()'><b>uname_char</b><br>Test class: Pages_Tests.Register_Test<br>Parameters: &**&**&, Abc, Abc</td>
+<td></td>
+<td>0</td>
+<td>Pages_Tests.Register_Test@38c6f217</td></tr>
+<tr>
+<td title='Pages_Tests.Register_Test.pass_unamesame()'><b>pass_unamesame</b><br>Test class: Pages_Tests.Register_Test<br>Parameters: AnushaG12, AnushaG1, AnushaG1</td>
+<td></td>
+<td>1</td>
+<td>Pages_Tests.Register_Test@38c6f217</td></tr>
+<tr>
+<td title='Pages_Tests.Register_Test.loginlnk_click()'><b>loginlnk_click</b><br>Test class: Pages_Tests.Register_Test</td>
+<td></td>
+<td>0</td>
+<td>Pages_Tests.Register_Test@38c6f217</td></tr>
+<tr>
+<td title='Pages_Tests.Register_Test.valid_entry()'><b>valid_entry</b><br>Test class: Pages_Tests.Register_Test<br>Parameters: AnushaG123456, Arthi199457, Arthi199457</td>
+<td></td>
+<td>0</td>
+<td>Pages_Tests.Register_Test@38c6f217</td></tr>
+<tr>
+<td title='Pages_Tests.Register_Test.pass_empty()'><b>pass_empty</b><br>Test class: Pages_Tests.Register_Test<br>Parameters: Abc, , Abc</td>
+<td></td>
+<td>0</td>
+<td>Pages_Tests.Register_Test@38c6f217</td></tr>
+<tr>
+<td title='Pages_Tests.Register_Test.pass_numbers()'><b>pass_numbers</b><br>Test class: Pages_Tests.Register_Test<br>Parameters: AnushaG12, 123456789, 123456789</td>
+<td></td>
+<td>0</td>
+<td>Pages_Tests.Register_Test@38c6f217</td></tr>
+<tr>
+<td title='Pages_Tests.Register_Test.pass_mismatch()'><b>pass_mismatch</b><br>Test class: Pages_Tests.Register_Test<br>Parameters: AnushaG12, Virat12, Virat21</td>
+<td></td>
+<td>1</td>
+<td>Pages_Tests.Register_Test@38c6f217</td></tr>
+<tr>
+<td title='Pages_Tests.Register_Test.uname_exist()'><b>uname_exist</b><br>Test class: Pages_Tests.Register_Test<br>Parameters: AnushaG, Abc, Abc</td>
+<td></td>
+<td>0</td>
+<td>Pages_Tests.Register_Test@38c6f217</td></tr>
+<tr>
+<td title='Pages_Tests.Register_Test.pass_common()'><b>pass_common</b><br>Test class: Pages_Tests.Register_Test<br>Parameters: AnushaG12, Welcome1, Welcome1</td>
+<td></td>
+<td>1</td>
+<td>Pages_Tests.Register_Test@38c6f217</td></tr>
+<tr>
+<td title='Pages_Tests.Register_Test.confpass_empty()'><b>confpass_empty</b><br>Test class: Pages_Tests.Register_Test<br>Parameters: Abc, Abc, </td>
+<td></td>
+<td>0</td>
+<td>Pages_Tests.Register_Test@38c6f217</td></tr>
+<tr>
+<td title='Pages_Tests.Register_Test.valid_login()'><b>valid_login</b><br>Test class: Pages_Tests.Register_Test<br>Parameters: AnushaG1234, Arthi199457</td>
+<td></td>
+<td>1</td>
+<td>Pages_Tests.Register_Test@38c6f217</td></tr>
+</table><p>
+</body>
+</html>

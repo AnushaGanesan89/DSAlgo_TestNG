@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="DSAlgo_TestNG">
+
+	<listeners>
+		<listener class-name="ExtentReportListener.ExtentReportListen" />
+	</listeners>
+
+
+	<test name="DSAlgo_TestNG Test Cases">
+		
+	
+		<classes>
+		   <class name="Pages_Tests.LaunchPage_Test"></class>
+			<class name="Pages_Tests.HomePage_Test"></class>
+			<class name="Pages_Tests.Register_Test"></class>
+			<class name="Pages_Tests.SignIn_Test"></class>
+			<class name="Pages_Tests.DataStructures_Test"></class>
+			
+
+		</classes>
+	</test>
+</suite>

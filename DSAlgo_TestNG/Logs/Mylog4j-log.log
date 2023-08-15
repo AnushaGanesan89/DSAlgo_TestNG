@@ -1,0 +1,71 @@
+['INFO ]2023-08-11 18:34:34,280(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-*************Register Page*****************
+['ERROR]2023-08-11 18:34:34,783(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-Please fill out this field.
+['ERROR]2023-08-11 18:34:42,982(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-Please fill out this field.
+['ERROR]2023-08-11 18:34:57,838(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-password_mismatch:The two password fields didn’t match.
+['ERROR]2023-08-11 18:35:04,668(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-password_mismatch:The two password fields didn’t match.
+['ERROR]2023-08-11 18:35:12,471(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-password_mismatch:The two password fields didn’t match.
+['ERROR]2023-08-11 18:35:20,739(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-password_mismatch:The two password fields didn’t match.
+['ERROR]2023-08-11 18:35:27,858(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-password_mismatch:The two password fields didn’t match.
+['ERROR]2023-08-11 18:35:35,467(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-password_mismatch:The two password fields didn’t match.
+['INFO ]2023-08-11 18:35:43,411(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-Username:
+Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only. Password:
+Your password can’t be too similar to your other personal information.
+Your password must contain at least 8 characters.
+Your password can’t be a commonly used password.
+Your password can’t be entirely numeric.
+Password confirmation:
+Enter the same password as before, for verification.
+
+If you already have an account, please Login instead!
+['INFO ]2023-08-11 18:35:51,979(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-Login
+['INFO ]2023-08-11 18:35:59,934(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-You are logged in
+['INFO ]2023-08-15 14:01:01,464(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-**************Home Page****************
+['INFO ]2023-08-15 14:01:01,511(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-NumpyNinja
+['INFO ]2023-08-15 14:02:34,301(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-Login
+['INFO ]2023-08-15 14:02:38,301(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-Numpy Ninja
+['INFO ]2023-08-15 14:02:50,399(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-*************Register Page*****************
+['ERROR]2023-08-15 14:02:50,951(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-Please fill out this field.
+['ERROR]2023-08-15 14:02:57,662(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-Please fill out this field.
+['ERROR]2023-08-15 14:03:12,806(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-password_mismatch:The two password fields didn’t match.
+['ERROR]2023-08-15 14:03:20,061(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-password_mismatch:The two password fields didn’t match.
+['ERROR]2023-08-15 14:03:27,457(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-password_mismatch:The two password fields didn’t match.
+['ERROR]2023-08-15 14:03:34,431(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-password_mismatch:The two password fields didn’t match.
+['ERROR]2023-08-15 14:03:41,267(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-password_mismatch:The two password fields didn’t match.
+['ERROR]2023-08-15 14:03:48,693(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-password_mismatch:The two password fields didn’t match.
+['INFO ]2023-08-15 14:03:55,760(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-Username:
+Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only. Password:
+Your password can’t be too similar to your other personal information.
+Your password must contain at least 8 characters.
+Your password can’t be a commonly used password.
+Your password can’t be entirely numeric.
+Password confirmation:
+Enter the same password as before, for verification.
+
+If you already have an account, please Login instead!
+['INFO ]2023-08-15 14:04:02,717(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-Login
+['INFO ]2023-08-15 14:04:09,832(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-You are logged in
+['INFO ]2023-08-15 14:28:19,237(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-**************Home Page****************
+['INFO ]2023-08-15 14:28:19,315(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-NumpyNinja
+['INFO ]2023-08-15 14:30:10,766(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-Login
+['INFO ]2023-08-15 14:30:16,274(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-Numpy Ninja
+['INFO ]2023-08-15 14:30:35,310(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-*************Register Page*****************
+['ERROR]2023-08-15 14:30:35,907(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-Please fill out this field.
+['ERROR]2023-08-15 14:30:43,978(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-Please fill out this field.
+['ERROR]2023-08-15 14:31:00,766(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-password_mismatch:The two password fields didn’t match.
+['ERROR]2023-08-15 14:31:08,301(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-password_mismatch:The two password fields didn’t match.
+['ERROR]2023-08-15 14:31:16,118(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-password_mismatch:The two password fields didn’t match.
+['ERROR]2023-08-15 14:31:24,169(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-password_mismatch:The two password fields didn’t match.
+['ERROR]2023-08-15 14:31:32,788(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-password_mismatch:The two password fields didn’t match.
+['ERROR]2023-08-15 14:31:40,198(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-password_mismatch:The two password fields didn’t match.
+['INFO ]2023-08-15 14:31:47,813(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-Username:
+Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only. Password:
+Your password can’t be too similar to your other personal information.
+Your password must contain at least 8 characters.
+Your password can’t be a commonly used password.
+Your password can’t be entirely numeric.
+Password confirmation:
+Enter the same password as before, for verification.
+
+If you already have an account, please Login instead!
+['INFO ]2023-08-15 14:31:55,068(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-Login
+['INFO ]2023-08-15 14:32:03,292(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-You are logged in

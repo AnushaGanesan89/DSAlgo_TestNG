@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-11T18:34:24 EDT" name="Default suite" finished-at="2023-08-11T18:36:00 EDT" duration-ms="96328">
+    <groups>
+    </groups>
+    <test started-at="2023-08-11T18:34:24 EDT" name="Default test" finished-at="2023-08-11T18:36:00 EDT" duration-ms="96328">
+      <class name="Pages_Tests.Register_Test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:34:24 EDT" name="setup" finished-at="2023-08-11T18:34:34 EDT" duration-ms="10124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="all_field_empty(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:34:34 EDT" name="all_field_empty" data-provider="empty" finished-at="2023-08-11T18:34:35 EDT" duration-ms="950" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- all_field_empty -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:34:35 EDT" name="tearDown" finished-at="2023-08-11T18:34:35 EDT" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:34:35 EDT" name="setup" finished-at="2023-08-11T18:34:42 EDT" duration-ms="7008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="pass_empty(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:34:42 EDT" name="pass_empty" data-provider="pass" finished-at="2023-08-11T18:34:43 EDT" duration-ms="943" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Abc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pass_empty -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:34:43 EDT" name="tearDown" finished-at="2023-08-11T18:34:43 EDT" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:34:43 EDT" name="setup" finished-at="2023-08-11T18:34:49 EDT" duration-ms="5981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="confpass_empty(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:34:49 EDT" name="confpass_empty" data-provider="confpass" finished-at="2023-08-11T18:34:50 EDT" duration-ms="906" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abc]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confpass_empty -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:34:50 EDT" name="tearDown" finished-at="2023-08-11T18:34:50 EDT" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:34:50 EDT" name="setup" finished-at="2023-08-11T18:34:57 EDT" duration-ms="6328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="uname_char(java.lang.String,java.lang.String,java.lang.String)[pri:4, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:34:57 EDT" name="uname_char" data-provider="unameChar" finished-at="2023-08-11T18:34:57 EDT" duration-ms="797" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[&**&**&]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abc]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Abc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uname_char -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:34:57 EDT" name="tearDown" finished-at="2023-08-11T18:34:58 EDT" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:34:58 EDT" name="setup" finished-at="2023-08-11T18:35:03 EDT" duration-ms="5770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="uname_exist(java.lang.String,java.lang.String,java.lang.String)[pri:5, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:35:03 EDT" name="uname_exist" data-provider="unameexist" finished-at="2023-08-11T18:35:04 EDT" duration-ms="846" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AnushaG]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abc]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Abc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uname_exist -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:35:04 EDT" name="tearDown" finished-at="2023-08-11T18:35:05 EDT" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:35:05 EDT" name="setup" finished-at="2023-08-11T18:35:11 EDT" duration-ms="6607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="pass_mismatch(java.lang.String,java.lang.String,java.lang.String)[pri:6, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:35:11 EDT" name="pass_mismatch" data-provider="passmismatch" finished-at="2023-08-11T18:35:12 EDT" duration-ms="1069" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AnushaG12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Virat12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Virat21]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pass_mismatch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:35:12 EDT" name="tearDown" finished-at="2023-08-11T18:35:13 EDT" duration-ms="261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:35:13 EDT" name="setup" finished-at="2023-08-11T18:35:20 EDT" duration-ms="7031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="pass_numbers(java.lang.String,java.lang.String,java.lang.String)[pri:7, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:35:20 EDT" name="pass_numbers" data-provider="passnumbers" finished-at="2023-08-11T18:35:20 EDT" duration-ms="872" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AnushaG12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456789]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[123456789]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pass_numbers -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:35:20 EDT" name="tearDown" finished-at="2023-08-11T18:35:21 EDT" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:35:21 EDT" name="setup" finished-at="2023-08-11T18:35:27 EDT" duration-ms="5851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="pass_unamesame(java.lang.String,java.lang.String,java.lang.String)[pri:8, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:35:27 EDT" name="pass_unamesame" data-provider="passunamesame" finished-at="2023-08-11T18:35:28 EDT" duration-ms="1039" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AnushaG12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AnushaG1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[AnushaG1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pass_unamesame -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:35:28 EDT" name="tearDown" finished-at="2023-08-11T18:35:28 EDT" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:35:28 EDT" name="setup" finished-at="2023-08-11T18:35:34 EDT" duration-ms="6354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="pass_common(java.lang.String,java.lang.String,java.lang.String)[pri:9, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:35:34 EDT" name="pass_common" data-provider="passcommon" finished-at="2023-08-11T18:35:35 EDT" duration-ms="1041" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AnushaG12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Welcome1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Welcome1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pass_common -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:35:35 EDT" name="tearDown" finished-at="2023-08-11T18:35:36 EDT" duration-ms="376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:35:36 EDT" name="setup" finished-at="2023-08-11T18:35:42 EDT" duration-ms="6542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="valid_entry(java.lang.String,java.lang.String,java.lang.String)[pri:10, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:35:42 EDT" name="valid_entry" data-provider="valid" finished-at="2023-08-11T18:35:43 EDT" duration-ms="972" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AnushaG123456]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Arthi199457]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Arthi199457]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valid_entry -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:35:43 EDT" name="tearDown" finished-at="2023-08-11T18:35:43 EDT" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:35:43 EDT" name="setup" finished-at="2023-08-11T18:35:51 EDT" duration-ms="7675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginlnk_click()[pri:11, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:35:51 EDT" name="loginlnk_click" finished-at="2023-08-11T18:35:51 EDT" duration-ms="445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginlnk_click -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:35:51 EDT" name="tearDown" finished-at="2023-08-11T18:35:52 EDT" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:35:52 EDT" name="setup" finished-at="2023-08-11T18:35:58 EDT" duration-ms="6484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="valid_login(java.lang.String,java.lang.String)[pri:12, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:35:58 EDT" name="valid_login" data-provider="validlogin" finished-at="2023-08-11T18:36:00 EDT" duration-ms="1381" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AnushaG1234]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Arthi199457]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valid_login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Pages_Tests.Register_Test@38c6f217]" started-at="2023-08-11T18:36:00 EDT" name="tearDown" finished-at="2023-08-11T18:36:00 EDT" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Pages_Tests.Register_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
